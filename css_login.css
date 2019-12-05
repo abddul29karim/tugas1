@@ -1,0 +1,9 @@
+body { font-family: Verdana; font-size: 14px; background-color: #F7F7F7; }
+input, button { padding: 7px; }
+button { cursor: pointer; }
+.container { background-color: #FFFFFF; border: 1px solid #000000; padding: 10px; width: 400px; margin: 0 auto; }
+.container .form-control { margin-bottom: 10px; width: 100%; }
+.container .form-control:last-child { margin-bottom: 0; }
+.container .form-control input { width: 380px; }
+.container .form-control button { width: 397px; }
+.container .pesan { color: #FFFFFF; text-align: center; padding: 7px; background-color: #FF0000; font-weight: bold; }
